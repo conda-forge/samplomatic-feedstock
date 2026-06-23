@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.19.0"
+  version: "0.20.0"
 
 package:
   name: samplomatic
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/samplomatic/samplomatic-${{ version }}.tar.gz
-  sha256: 172e815f20bbc838ef82c2cc7ef3f3306699f5d91ebe1f4621f5f99a7e5d47ed
+  sha256: 5e5858d6c329c45e7e851fc57e586bcb44b85f46fb02e3c6a636e7f420cefa26
 
 build:
   number: 0
